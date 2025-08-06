@@ -59,11 +59,14 @@ I'm Fuyuko Hanekura, a game dev student from ![Guadeloupe Flag](https://flagcdn.
 </details>
 
 ## Contact & Useful links
-<img alt="Linktree" src="https://img.shields.io/badge/Linktree-%2343E55E?style=social&logo=linktree&link=https%3A%2F%2Flinktr.ee%2Ffuyukohanekura">
-<img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-%230285FF?style=social&logo=bluesky&link=https%3A%2F%2Fbsky.app%2Fprofile%2Ffuyukohanekura.bsky.social">
-<img alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23FF0069?style=social&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Ffuyukohanekura%2F">
-<img alt="Static Badge" src="https://img.shields.io/badge/Twitch-%239146FF?style=social&logo=twitch&link=https%3A%2F%2Fwww.twitch.tv%2Ffuyukohanekura">
-<img alt="Static Badge" src="https://img.shields.io/badge/Youtube-%23FF0000?style=social&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40FuyukoHanekura">
+<a href="https://linktr.ee/fuyukohanekura">![Linktree](https://img.shields.io/badge/Linktree-%2343E55E?style=social&logo=linktree&link=https%3A%2F%2Flinktr.ee%2Ffuyukohanekura)</a>
+<a href="https://bsky.app/profile/fuyukohanekura.bsky.social">![Bluesky](https://img.shields.io/badge/Bluesky-%230285FF?style=social&logo=bluesky&link=https%3A%2F%2Fbsky.app%2Fprofile%2Ffuyukohanekura.bsky.social)</a>
+<a href="https://www.instagram.com/fuyukohanekura/">![Instagram](https://img.shields.io/badge/Instagram-%23FF0069?style=social&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Ffuyukohanekura%2F)</a>
+<a href="https://www.twitch.tv/fuyukohanekura">![Twitch](https://img.shields.io/badge/Twitch-%239146FF?style=social&logo=twitch&link=https%3A%2F%2Fwww.twitch.tv%2Ffuyukohanekura)</a>
+<a href="https://www.youtube.com/@FuyukoHanekura">![Youtube](https://img.shields.io/badge/Youtube-%23FF0000?style=social&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40FuyukoHanekura)</a>
+
+
+
 
 <!--
 **FuyukoHanekura/FuyukoHanekura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
