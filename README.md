@@ -1,6 +1,6 @@
 # Time to code and change lives
 
-I'm Fuyuko Hanekura, a game dev student from ![Guadeloupe Flag](https://flagcdn.com/w20/gp.png "Guadeloupe's flag as a French colony")![France Flag](https://flagcdn.com/w20/fr.png) **Guadeloupe, France**.
+I'm Fuyuko Hanekura, a game dev student from ![Guadeloupe Flag](https://flagcdn.com/w20/gp.png "Guadeloupe's flag as a French colony"),![France Flag](https://flagcdn.com/w20/fr.png) **Guadeloupe, France**.
 
 ## About myself
 
@@ -9,6 +9,10 @@ I'm Fuyuko Hanekura, a game dev student from ![Guadeloupe Flag](https://flagcdn.
 - Part-time streamer on [Twitch](https://www.twitch.tv/fuyukohanekura).
 
 ## What I love (Beside programming)
+
+> Don't make a girl a promise, if you know you can't keep it.
+
+
  <!-- A lot of thing -->
 - Video Games
   - Halo, Monster Hunter, Guild Wars 2.
@@ -16,8 +20,7 @@ I'm Fuyuko Hanekura, a game dev student from ![Guadeloupe Flag](https://flagcdn.
   - Bleach, One Piece, Kingdom, Frieren.
 - Motorsports
   - Formula One, Endurance, Nascar.
-
-> Don't make a girl a promise, if you know you can't keep it.
+- And many other things that I don't even know I like
 
 <details>
   <summary>Things that I use</summary>
