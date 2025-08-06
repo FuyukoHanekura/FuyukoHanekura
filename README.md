@@ -59,14 +59,11 @@ I'm Fuyuko Hanekura, a game dev student from ![Guadeloupe Flag](https://flagcdn.
 </details>
 
 ## Contact & Useful links
-![Linktree](https://img.shields.io/badge/Linktree-%2343E55E?style=social&logo=linktree&link=https%3A%2F%2Flinktr.ee%2Ffuyukohanekura)
-![Bluesky](https://img.shields.io/badge/Bluesky-%230285FF?style=social&logo=bluesky&link=https%3A%2F%2Fbsky.app%2Fprofile%2Ffuyukohanekura.bsky.social)
-![Instagram](https://img.shields.io/badge/Instagram-%23FF0069?style=social&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Ffuyukohanekura%2F)
-![Twitch](https://img.shields.io/badge/Twitch-%239146FF?style=social&logo=twitch&link=https%3A%2F%2Fwww.twitch.tv%2Ffuyukohanekura)
-![Youtube](https://img.shields.io/badge/Youtube-%23FF0000?style=social&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40FuyukoHanekura)
-
-
-
+<img alt="Linktree" src="https://img.shields.io/badge/Linktree-%2343E55E?style=social&logo=linktree&link=https%3A%2F%2Flinktr.ee%2Ffuyukohanekura">
+<img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-%230285FF?style=social&logo=bluesky&link=https%3A%2F%2Fbsky.app%2Fprofile%2Ffuyukohanekura.bsky.social">
+<img alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23FF0069?style=social&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Ffuyukohanekura%2F">
+<img alt="Static Badge" src="https://img.shields.io/badge/Twitch-%239146FF?style=social&logo=twitch&link=https%3A%2F%2Fwww.twitch.tv%2Ffuyukohanekura">
+<img alt="Static Badge" src="https://img.shields.io/badge/Youtube-%23FF0000?style=social&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40FuyukoHanekura">
 
 <!--
 **FuyukoHanekura/FuyukoHanekura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
