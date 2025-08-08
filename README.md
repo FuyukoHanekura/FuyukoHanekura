@@ -49,13 +49,16 @@ I'm Fuyuko Hanekura, a game dev student from ![Guadeloupe Flag](https://flagcdn.
 ## Software & Tools
 ![Affinity Suite](https://img.shields.io/badge/Affinity%20Suite-%23222324?style=flat&logo=affinity&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2?style=flat&logo=discord&logoColor=white)
-![Vivaldi](https://img.shields.io/badge/Vivaldi-%23EF3939?style=flat&logo=vivaldi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white)
 ![Git Fork](https://img.shields.io/badge/Git%20Fork-%2340AEF0?style=flat&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/Godot%20Engine-%23478CBF?style=flat&logo=godotengine&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoColor=black)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%237C3AED?style=flat&logo=obsidian&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS-%23302E31?style=flat&logo=obsstudio&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-black?style=flat&logo=rider&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23FFFFFF?style=flat&logo=unity&logoColor=040707)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-ffffff?style=flat&logo=unrealengine&logoColor=040707)
+![Vivaldi](https://img.shields.io/badge/Vivaldi-%23EF3939?style=flat&logo=vivaldi&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230078d7?style=flat&logoColor=white)
 ![VS Community](https://img.shields.io/badge/Visual%20Studio%20Community-%23AE7FE2?style=flat&logoColor=white)
 
