@@ -9,9 +9,7 @@ I'm Fuyuko Hanekura, a game dev student from ![Guadeloupe Flag](https://flagcdn.
 - Part-time streamer on [Twitch](https://www.twitch.tv/fuyukohanekura).
 
 ## What I love (Beside programming)
-
-> Don't make a girl a promise, if you know you can't keep it.
-
+![Cortana Quote](img/ProtoBannerGitHub.png)
 
  <!-- A lot of thing -->
 - Video Games
