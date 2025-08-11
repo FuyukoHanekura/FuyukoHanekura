@@ -9,7 +9,7 @@ I'm Fuyuko Hanekura, a game dev student from ![Guadeloupe Flag](https://flagcdn.
 - Part-time streamer on [Twitch](https://www.twitch.tv/fuyukohanekura).
 
 ## What I love (Beside programming)
-![Cortana Quote](img/ProtoBannerGitHub.png)
+[![Cortana Quote](img/ProtoBannerGitHub.png)](https://youtu.be/8F7OgOCzph4?si=HSYLzZe6obvkEFxI&t=2647)
 
  <!-- A lot of thing -->
 - Video Games
