@@ -1,6 +1,6 @@
 # Time to code and change lives
 
-I'm Fuyuko Hanekura, a game dev student from ![Guadeloupe Flag](https://flagcdn.com/w20/gp.png "Guadeloupe's flag as a French colony"),![France Flag](https://flagcdn.com/w20/fr.png) **Guadeloupe, France**.
+I'm Fuyuko Hanekura, a game dev student from ![Guadeloupe Flag](https://flagcdn.com/w20/gp.png "Guadeloupe's colonial flag"),![France Flag](https://flagcdn.com/w20/fr.png) **Guadeloupe, France**.
 
 ## About myself
 
